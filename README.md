@@ -1,4 +1,4 @@
-# Python_based_Trip_planner_AI_assistant_chatbot
+# Python_based_Trip_planner_AI_chatbot
 
 ## Project Summary
 
